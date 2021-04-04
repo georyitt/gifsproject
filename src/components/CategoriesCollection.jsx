@@ -1,4 +1,4 @@
-import React, {Fragment, useState, useEffect} from 'react';
+import React, {Fragment} from 'react';
 import {useFetchGifs} from "../hooks/useFetchGifts";
 import CategoriesCollectionItem from "./CategoriesCollectionItem";
 
